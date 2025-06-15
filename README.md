@@ -1,17 +1,26 @@
-# cloudproject
+# 🔐 Secure Multi-Device Login System
 
-A new Flutter project.
+A cloud-based authentication system for employees using BYOD (Bring Your Own Device). Built with **Flutter Web** and **Firebase**.
 
-## Getting Started
+## 🌐 Live Demo
+🔗 [https://youtu.be/ZUW2Hr26e2g]
 
-This project is a starting point for a Flutter application.
+## 📌 Project Description
 
-A few resources to get you started if this is your first Flutter project:
+This project demonstrates modern authentication methods in a cloud environment, including:
+- Multi-device login
+- Device information tracking
+- Cloud-based user authentication
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧰 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Group2_CloudProject" 
+| Component        | Tool/Service            |
+|------------------|-------------------------|
+| Frontend         | Flutter Web             |
+| Authentication   | Firebase Authentication |
+| Database         | Firebase Firestore      |
+| Hosting          | Firebase Hosting        |
+| Device Tracking  | device_info_plus plugin |
+
+## 📂 Folder Structure
+
