@@ -19,6 +19,5 @@ This project demonstrates modern authentication methods in a cloud environment, 
 | Frontend         | Flutter Web             |
 | Authentication   | Firebase Authentication |
 | Database         | Firebase Firestore      |
-| Hosting          | Firebase Hosting        |
 | Device Tracking  | device_info_plus plugin |
 
