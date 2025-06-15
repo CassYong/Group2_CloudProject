@@ -22,5 +22,3 @@ This project demonstrates modern authentication methods in a cloud environment, 
 | Hosting          | Firebase Hosting        |
 | Device Tracking  | device_info_plus plugin |
 
-## 📂 Folder Structure
-
